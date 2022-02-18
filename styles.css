@@ -41,5 +41,24 @@ body {
 #Menu a{ 
   text-decoration: none;
   color:white;
-  
+
+}
+#rodape{
+  background-color: black;
+  box-shadow: 1px 2px 5px rgba(0,0,0,0,5);
+  position: relative;
+  width: 100%;
+  height: 5%;
+}
+#followers{
+  width: 300px;
+  height: 100%;
+  float: right;
+}
+
+#followerstable{
+  color:white;
+  margin: 0 auto;
+  margin-right: 5px;
+  height: 100%;
 }
