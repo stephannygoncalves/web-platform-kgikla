@@ -71,3 +71,9 @@ body {
   padding-right: 10px;
   
 }
+#conteudo{
+  width: 960px;
+  margin: 0 auto;
+  position: relative;
+  min-height: 85%;
+}
