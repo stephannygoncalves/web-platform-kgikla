@@ -26,3 +26,20 @@ body {
   height: 100%;
   float:right;
 }
+
+#MenuTable{
+  margin: 0 auto;
+  margin-right: 5px;
+  height: 100%;
+}
+
+#MenuTabletd{
+  padding: 10px;
+
+}
+
+#Menu a{ 
+  text-decoration: none;
+  color:white;
+  
+}
