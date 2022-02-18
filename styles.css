@@ -76,4 +76,24 @@ body {
   margin: 0 auto;
   position: relative;
   min-height: 85%;
+  padding-top: 5px;
+}
+#direita{
+  margin-top: 50px;
+  width: 600px;
+  float: right;
+
+}
+
+#direita p{
+  font-size: 10px;
+  text-align: justify
+
+}
+
+#esquerda{
+  width: 350px;
+  margin-top: 5px;
+  float: left;
+  text-align: center;
 }
